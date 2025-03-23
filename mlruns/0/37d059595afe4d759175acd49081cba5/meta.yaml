@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Tp_efrei/Deep%20Learning/TP%20deep%20learning/mlruns/0/37d059595afe4d759175acd49081cba5/artifacts
+end_time: 1742769947264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37d059595afe4d759175acd49081cba5
+run_name: Dense_v2
+run_uuid: 37d059595afe4d759175acd49081cba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742769720084
+status: 3
+tags: []
+user_id: nanji

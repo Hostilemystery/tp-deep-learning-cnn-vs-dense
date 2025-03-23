@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Tp_efrei/Deep%20Learning/TP%20deep%20learning/mlruns/0/ffca8a16fbe442a58e1b7d5be087e3a6/artifacts
+end_time: 1742769679740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffca8a16fbe442a58e1b7d5be087e3a6
+run_name: CNN_v2
+run_uuid: ffca8a16fbe442a58e1b7d5be087e3a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742767552777
+status: 3
+tags: []
+user_id: nanji
